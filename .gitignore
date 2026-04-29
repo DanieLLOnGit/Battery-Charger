@@ -1,0 +1,12 @@
+# KiCad backup and lock files
+*.lck
+~*
+*-backups/
+_autosave-*
+fp-info-cache
+
+# VS Code Local History
+.history/
+
+# macOS
+.DS_Store
